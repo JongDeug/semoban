@@ -6,7 +6,8 @@
 반려동물의 정보를 공유하고, 반려동물에 대해 궁금한 점을 질문하고 답변받는 등 반려동물에 대한 정보를 효율적으로 찾아볼 수 있는 웹 커뮤니티 사이트이다.  
 <br/>
 
-[시연영상](https://github.com/JongDeug/semoban/assets/99215801/71d2d8d0-efe7-4b57-88a5-a123a60e283c)
+[시연영상](https://github.com/JongDeug/semoban/assets/99215801/71d2d8d0-efe7-4b57-88a5-a123a60e283c)  
+<br/>
 
 ## ⚙ 기술 스택
 - Node(express)
