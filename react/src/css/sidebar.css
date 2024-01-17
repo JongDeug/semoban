@@ -1,0 +1,33 @@
+/*사이드바*/
+ul.category_area {
+    /* margin: auto 0; */
+    font-size: larger;
+    flex-basis: max-content;
+    padding: 0;
+    padding-right: 10px;
+    flex-grow: 0;
+    margin: 0 1% auto 0;
+    min-width: max-content;
+
+}
+li{
+    list-style: none;
+}
+li.category_content {
+    padding: 8px 5px;
+    border-block: 0.5px solid lightgray;
+}
+
+.side_link{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.899);
+}
+.side_link:hover{
+
+}
+
+@media screen and (max-width:800px) {
+    .category_area{
+        display: none;
+    }
+}

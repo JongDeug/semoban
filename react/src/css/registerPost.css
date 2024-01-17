@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+* {
+    margin:  0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.input_page h2 {
+    margin: 35px 0px 10px;
+    text-align: center;
+}
+
+.input {
+    margin: auto;
+    text-align: center;
+    max-width: 350px;
+}
+
+.input_content {
+    margin: 18px 0px 8px;
+}
+
+.input_what {
+    text-align: left;
+}
+
+.input_area input {
+    width: 350px;
+    height: 30px;
+}
+
+#button {
+    margin: 20px 0px 20px;
+    border: 0px;
+}
+
+.btn-success {
+    margin-top: 50px;
+
+}
+
+.btn-success,
+.btn-success:focus,
+.btn-success:active {
+    color: #fff;
+    background-color: #59c294;
+    border: #59c294;
+    box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5),
+        7px 7px 20px 0px rgba(0, 0, 0, .1),
+        4px 4px 5px 0px rgba(0, 0, 0, .1);
+    transition: all 0.3s ease;
+    margin: 0 auto;
+    
+}
+
+.btn-success:hover {
+    color: #fff;
+}
+
+.contentwrite.form-control {
+    height: 800px;
+}
+
+.require {
+    color: #666;
+}
+
+label small {
+    color: #999;
+    font-weight: normal;
+}
+
+.form-group {
+    margin-top: 20px;
+    width: 85%;
+}
+
+.form-control {
+    margin-top: 5px;
+}
+
+#attachedfile {
+    height: auto;
+}

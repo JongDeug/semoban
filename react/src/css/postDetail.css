@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+.postDetailButtons {
+    display: inline-flex;
+    justify-content: flex-end !important;
+    margin-bottom: 120px;
+    width: auto;
+}
+
+.row.ri{
+    word-break: break-all;
+    margin: 1em;;
+}
+
+div.group{
+    width: 900px;
+}
+
+.btn-success.udPostDetailButtons,
+.btn-danger.udPostDetailButtons
+{
+    margin-right: 20px !important;
+
+}
+
+.posDtCancelBtn{
+    background-color:rgb(64, 152, 228);
+    color:white;
+    
+}
+
+.posDtDeleteBtn{
+    background-color: rgb(210, 94, 94);
+        color: white;
+}
+
+.btn-close{
+    display: flex;
+    justify-self: right;
+}
+
+/* 이미지파일 */
+img{
+    max-width: 100%;
+}
+
+.content-wrap{
+    white-space: pre-wrap;
+}
+
+.post-tag{
+    background-color: #76ce76d6;
+    font-size: 1.1em;
+    margin: 5px 5px;
+}
+
+.post-tag:first {
+    margin-left: 0px;
+}
+

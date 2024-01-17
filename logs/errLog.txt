@@ -1,0 +1,384 @@
+2022/09/1	22:57:50	TypeError: res.sen is not a function
+2022/09/1	22:58:28	TypeError: res.sen is not a function
+2022/09/1	22:58:32	TypeError: res.sen is not a function
+2022/09/1	22:58:32	TypeError: res.sen is not a function
+2022/09/1	22:59:01	TypeError: res.sen is not a function
+2022/09/1	22:59:18	TypeError: res.sen is not a function
+2022/09/1	23:00:17	TypeError: res.sen is not a function
+2022/09/1	23:02:48	TypeError: res.sen is not a function
+2022/09/1	23:03:19	TypeError: res.sen is not a function
+2022/09/1	23:03:21	TypeError: res.sen is not a function
+2022/09/1	23:03:22	TypeError: res.sen is not a function
+2022/09/1	23:04:00	TypeError: res.sen is not a function
+2022/09/1	23:04:04	TypeError: res.sen is not a function
+2022/09/1	23:05:06	TypeError: res.sen is not a function
+2022/09/1	23:05:18	TypeError: res.sen is not a function
+2022/09/1	23:06:46	TypeError: res.sen is not a function
+2022/09/1	23:06:53	TypeError: res.sen is not a function
+2022/09/1	23:16:16	TypeError: res.status(...).sen is not a function
+2022/09/1	23:16:34	TypeError: res.status(...).sen is not a function
+2022/09/1	23:17:03	TypeError: res.status(...).sen is not a function
+2022/09/1	23:17:17	TypeError: res.status(...).sen is not a function
+2022/09/1	23:17:17	TypeError: res.status(...).sen is not a function
+2022/09/1	23:18:51	TypeError: res.status(...).sen is not a function
+2022/09/1	23:19:21	TypeError: res.status(...).sen is not a function
+2022/09/1	23:19:23	TypeError: res.status(...).sen is not a function
+2022/09/1	23:20:40	TypeError: res.status(...).sen is not a function
+2022/09/17	13:31:26	TypeError: Cannot read properties of undefined (reading 'username')
+2022/09/17	13:31:28	TypeError: Cannot read properties of undefined (reading 'username')
+2022/09/20	02:24:41	SyntaxError: Unexpected token u in JSON at position 13
+2022/09/23	20:08:33	SyntaxError: Unexpected string in JSON at position 23
+2022/09/23	20:10:36	SyntaxError: Unexpected string in JSON at position 23
+2022/09/23	21:22:45	SyntaxError: Unexpected token } in JSON at position 41
+2022/09/23	21:23:24	SyntaxError: Unexpected token } in JSON at position 42
+2022/09/24	01:22:12	ReferenceError: path is not defined
+2022/09/24	01:23:40	ReferenceError: path is not defined
+2022/09/24	01:23:44	ReferenceError: path is not defined
+2022/09/24	01:23:47	ReferenceError: path is not defined
+2022/09/24	01:28:35	ReferenceError: path is not defined
+2022/09/24	01:33:59	ReferenceError: path is not defined
+2022/09/24	01:47:30	ReferenceError: path is not defined
+2022/09/24	13:39:48	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	13:51:39	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	13:52:14	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	13:52:17	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	13:52:19	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	13:52:20	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	13:58:19	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	13:58:22	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	13:58:22	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	13:58:24	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	13:58:25	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	13:58:26	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	13:58:48	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	13:58:49	ReferenceError: path is not defined
+2022/09/24	13:58:49	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	13:59:50	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:00:21	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:00:22	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:02:02	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:02:09	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:02:40	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:02:42	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:04:01	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:04:02	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:08:02	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:08:05	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:09:53	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:09:55	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:13:11	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:13:57	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:14:00	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:14:02	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:14:04	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:14:06	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:19:07	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:20:08	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:20:10	ReferenceError: path is not defined
+2022/09/24	14:20:10	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:21:00	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:21:04	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:21:04	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:21:06	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:21:08	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:21:10	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:21:11	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:21:23	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:21:25	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:21:49	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:21:50	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:26:52	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:26:54	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:26:55	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:26:58	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:27:55	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:27:58	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:30:28	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:30:30	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:30:30	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:30:31	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:31:16	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:31:17	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:31:24	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:31:43	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:32:26	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:32:39	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:33:06	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:36:02	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:36:04	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:36:05	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:36:05	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:36:11	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:36:17	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:37:11	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:37:12	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:37:13	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:37:13	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:39:14	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:39:16	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:39:17	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:39:18	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:40:19	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:40:20	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/24	14:40:22	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/27	15:28:16	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/27	15:28:19	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/27	15:28:22	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/27	15:28:24	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/27	15:28:31	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/27	15:30:48	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/27	15:30:51	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/27	15:30:54	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/27	15:30:57	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/27	15:31:03	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/27	15:31:13	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/27	15:31:17	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/27	15:31:28	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/09/27	15:31:32	TypeError: Cannot read properties of undefined (reading 'accessToken')
+2022/10/13	18:48:03	TypeError: res.status(...).js is not a function
+2022/10/13	18:51:24	TypeError: res.status(...).js is not a function
+2022/10/13	18:53:25	TypeError: res.status(...).js is not a function
+2022/10/13	22:41:49	ReferenceError: path is not defined
+2022/10/13	22:45:35	Error: ENOENT: no such file or directory, stat '/mnt/c/Users/pinpo/.vscode/Node.js/web-community-project/controllers/views/login.html'
+2022/10/19	17:42:12	CastError: Cast to string failed for value "{ id: '김종호' }" (type Object) at path "userId" for model "Member"
+2022/10/19	17:49:58	CastError: Cast to string failed for value "{ id: '김종호' }" (type Object) at path "userId" for model "Member"
+2022/10/19	17:49:58	CastError: Cast to string failed for value "{ id: '김종호' }" (type Object) at path "userId" for model "Member"
+2022/10/19	18:08:46	Error: ENOENT: no such file or directory, stat '/mnt/c/Users/pinpo/.vscode/Node.js/web-community-project/routes/React/build/index.html'
+2022/10/19	18:09:00	Error: ENOENT: no such file or directory, stat '/mnt/c/Users/pinpo/.vscode/Node.js/web-community-project/routes/React/build/index.html'
+2022/10/20	21:15:27	Error: ENOENT: no such file or directory, stat '/mnt/c/Users/pinpo/.vscode/Node.js/web-community-project/React/build/index.html'
+2022/10/20	22:31:42	Error: Cannot set headers after they are sent to the client
+2022/10/28	16:32:37	TypeError: res.stauts is not a function
+2022/10/31	12:08:24	ValidationError: Comment validation failed: postId: Cast to Number failed for value "635f3bed323a8db1b7fa3d8c" (type string) at path "postId"
+2022/10/31	12:25:35	ReferenceError: _ is not defined
+2022/10/31	19:43:54	ReferenceError: baseUrl is not defined
+2022/10/31	19:46:59	ValidationError: Post validation failed: userId: Path `userId` is required.
+2022/10/31	21:14:26	ReferenceError: postId is not defined
+2022/10/31	21:16:17	ReferenceError: postId is not defined
+2022/10/31	21:16:49	ReferenceError: postId is not defined
+2022/10/31	21:19:45	ReferenceError: postId is not defined
+2022/10/31	23:19:42	ReferenceError: result is not defined
+2022/10/31	23:54:12	Error: ENOENT: no such file or directory, stat '/mnt/c/Users/pinpo/.vscode/Node.js/web-community-project/React/build/index.html'
+2022/11/1	02:57:25	TypeError: Cannot read properties of null (reading 'userId')
+2022/11/1	02:57:26	TypeError: Cannot read properties of null (reading 'userId')
+2022/11/1	03:05:03	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/1	03:07:20	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/1	12:10:23	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Post"
+2022/11/2	02:41:25	ReferenceError: cosnole is not defined
+2022/11/10	13:48:13	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Post"
+2022/11/10	14:36:08	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/10	14:37:04	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/10	14:51:35	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Post"
+2022/11/10	15:42:43	CastError: Cast to ObjectId failed for value "like" (type string) at path "_id" for model "Post"
+2022/11/10	16:03:00	TypeError: Cannot read properties of undefined (reading 'getIndexes')
+2022/11/10	16:03:10	TypeError: Post.getIndexes is not a function
+2022/11/10	16:10:42	ReferenceError: Order is not defined
+2022/11/10	16:10:56	TypeError: Post.getIndexes is not a function
+2022/11/10	16:11:49	TypeError: Post.getIndexes is not a function
+2022/11/10	16:38:34	TypeError: Post.getIndexes is not a function
+2022/11/10	16:56:10	ReferenceError: Command is not defined
+2022/11/10	16:56:15	ReferenceError: Command is not defined
+2022/11/13	01:27:25	TypeError: Cannot read properties of undefined (reading 'find')
+2022/11/13	01:27:29	TypeError: Cannot read properties of undefined (reading 'find')
+2022/11/13	02:39:13	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:39:13	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:40:17	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:40:41	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:40:54	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:42:45	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:43:58	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:45:26	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:46:26	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:46:43	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:47:33	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:47:33	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:47:33	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:47:46	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:49:42	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:53:44	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:57:18	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:57:57	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:58:15	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	02:58:22	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	03:01:08	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	03:02:09	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	03:02:29	ValidationError: Post validation failed: postTitle: Path `postTitle` is required., keywords: Path `keywords` is required.
+2022/11/13	06:21:55	Error: ENOENT: no such file or directory, stat '/home/jongdeug/src/Javascript/Node.js/web-community-project/uploads/index.html'
+2022/11/13	08:30:59	TypeError: Cannot read properties of undefined (reading 'map')
+2022/11/13	08:31:59	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/13	08:32:57	TypeError: Callback must be a function. Received undefined
+2022/11/13	08:35:56	TypeError: Callback must be a function. Received undefined
+2022/11/13	08:36:36	TypeError: Callback must be a function. Received undefined
+2022/11/13	08:37:27	TypeError: Callback must be a function. Received undefined
+2022/11/13	08:43:37	TypeError: Callback must be a function. Received undefined
+2022/11/15	15:09:04	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:10:51	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:12:37	CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Post"
+2022/11/15	15:13:14	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:15:40	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:18:11	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:21:05	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:22:12	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:22:36	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:23:28	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:25:27	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:25:53	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:26:06	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:26:13	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:26:30	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:27:10	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:27:37	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:29:19	TypeError: Cannot read properties of null (reading 'likeHit')
+2022/11/15	15:29:20	TypeError: Cannot read properties of null (reading 'likeHit')
+2022/11/15	15:29:21	TypeError: Cannot read properties of null (reading 'likeHit')
+2022/11/15	15:31:48	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	15:44:29	MongoServerError: $and/$or/$nor must be a nonempty array
+2022/11/15	15:44:30	MongoServerError: $and/$or/$nor must be a nonempty array
+2022/11/15	15:49:11	MongoServerError: $and/$or/$nor must be a nonempty array
+2022/11/15	15:49:24	MongoServerError: $and/$or/$nor must be a nonempty array
+2022/11/15	15:49:25	MongoServerError: $and/$or/$nor must be a nonempty array
+2022/11/15	15:49:26	MongoServerError: $and/$or/$nor must be a nonempty array
+2022/11/15	15:49:27	MongoServerError: $and/$or/$nor must be a nonempty array
+2022/11/15	15:49:28	MongoServerError: $and/$or/$nor must be a nonempty array
+2022/11/15	15:49:29	MongoServerError: $and/$or/$nor must be a nonempty array
+2022/11/15	16:13:49	MongoServerError: $and/$or/$nor must be a nonempty array
+2022/11/15	16:15:46	MongoServerError: $and/$or/$nor must be a nonempty array
+2022/11/15	16:15:49	MongoServerError: $and/$or/$nor must be a nonempty array
+2022/11/15	16:24:53	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	16:45:51	CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "PostInformation"
+2022/11/15	16:45:56	CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "PostInformation"
+2022/11/15	17:02:16	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	17:02:17	TypeError: Cannot read properties of null (reading 'likeHit')
+2022/11/15	17:02:18	TypeError: Cannot read properties of null (reading 'likeHit')
+2022/11/15	17:02:19	TypeError: Cannot read properties of null (reading 'likeHit')
+2022/11/15	17:02:20	TypeError: Cannot read properties of null (reading 'likeHit')
+2022/11/15	17:02:21	TypeError: Cannot read properties of null (reading 'likeHit')
+2022/11/15	17:02:22	TypeError: Cannot read properties of null (reading 'likeHit')
+2022/11/15	17:28:59	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	17:29:43	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	18:09:08	CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "PostInformation"
+2022/11/15	18:09:18	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/15	19:10:58	TypeError: Cannot read properties of undefined (reading 'length')
+2022/11/15	19:13:22	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2022/11/15	19:14:35	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2022/11/15	19:15:45	AssertionError: The expression evaluated to a falsy value:
+
+  assert.ok(!isNaN(val))
+
+2022/11/15	19:16:13	AssertionError: The expression evaluated to a falsy value:
+
+  assert.ok(!isNaN(val))
+
+2022/11/15	19:31:09	TypeError: Cannot read properties of undefined (reading 'length')
+2022/11/15	19:31:25	TypeError: Cannot read properties of undefined (reading 'length')
+2022/11/15	19:52:20	AssertionError: The expression evaluated to a falsy value:
+
+  assert.ok(!isNaN(val))
+
+2022/11/15	19:52:25	AssertionError: The expression evaluated to a falsy value:
+
+  assert.ok(!isNaN(val))
+
+2022/11/15	19:53:18	AssertionError: The expression evaluated to a falsy value:
+
+  assert.ok(!isNaN(val))
+
+2022/11/16	13:14:09	TypeError: Invalid sort value: { $sort: [object Object] }
+2022/11/16	13:15:10	TypeError: Invalid sort value: { $sort: [object Object] }
+2022/11/16	13:15:46	TypeError: Invalid sort value: { $sort: [object Object] }
+2022/11/16	13:23:41	TypeError: PostAnything.find(...).sort(...).pretty is not a function
+2022/11/16	13:29:44	TypeError: PostAnything.find(...).sort(...).pretty is not a function
+2022/11/16	13:42:18	MongoServerError: $size needs a number
+2022/11/16	13:43:58	MongoServerError: unknown top level operator: $length. If you have a field name that starts with a '$' symbol, consider using $getField or $setField.
+2022/11/16	14:54:19	TypeError: Cannot read properties of null (reading 'hit')
+2022/11/17	02:17:54	TypeError: Cannot read properties of undefined (reading 'UserInfo')
+2022/11/17	02:19:05	TypeError: Cannot read properties of undefined (reading 'UserInfo')
+2022/11/17	02:19:28	TypeError: Cannot read properties of undefined (reading 'UserInfo')
+2022/11/17	02:20:04	TypeError: Cannot read properties of undefined (reading 'UserInfo')
+2022/11/21	04:50:48	ReferenceError: PostAnything is not defined
+2022/11/21	21:19:48	TypeError: Cannot set properties of undefined (setting 'anything')
+2022/11/21	21:21:10	TypeError: Cannot set properties of undefined (setting 'key')
+2022/11/23	14:08:00	MongoServerError: size argument to $sample must be a number
+2022/11/23	14:08:14	MongoServerError: size argument to $sample must be a number
+2022/11/23	14:08:59	MongoServerError: size argument to $sample must be a number
+2022/11/23	14:11:36	MongoServerError: size argument to $sample must be a number
+2022/11/23	14:12:25	MongoServerError: size argument to $sample must be a number
+2022/11/23	14:16:31	MongoServerError: size argument to $sample must be a number
+2022/11/23	14:17:40	MongoServerError: size argument to $sample must be a number
+2022/11/23	14:22:19	MongoServerError: size argument to $sample must be a number
+2022/11/23	15:03:36	ValidationError: Notice validation failed: postId: Cast to Number failed for value "63736b24cd2c82672b47fc43" (type string) at path "postId", commentId: Cast to Number failed for value "new ObjectId("637db7b8e22f88012bcf8042")" (type ObjectId) at path "commentId"
+2022/11/23	15:05:17	ReferenceError: _id is not defined
+2022/11/23	15:06:59	ValidationError: Notice validation failed: postId: Cast to Number failed for value "63736b24cd2c82672b47fc43" (type string) at path "postId", commentId: Cast to Number failed for value "new ObjectId("637db8833b77729039532ba6")" (type ObjectId) at path "commentId"
+2022/11/23	15:08:47	ValidationError: Notice validation failed: postId: Cast to Number failed for value "63736b24cd2c82672b47fc43" (type string) at path "postId"
+2022/11/24	02:35:19	ReferenceError: result is not defined
+2022/11/24	02:42:34	ReferenceError: result is not defined
+2022/11/24	02:55:34	ReferenceError: result is not defined
+2022/11/24	03:50:40	TypeError: Cannot read properties of undefined (reading 'find')
+2022/11/24	03:50:42	TypeError: Cannot read properties of undefined (reading 'find')
+2022/11/24	05:55:48	Error: ENOENT: no such file or directory, stat '/home/jongdeug/src/Javascript/Node.js/web-community-project/uploads/Capture001_1668516681784'
+2022/11/24	05:56:32	Error: ENOENT: no such file or directory, stat '/home/jongdeug/src/Javascript/Node.js/web-community-project/uploads/Capture001_1668516681784'
+2022/11/24	06:20:06	ReferenceError: Post is not defined
+2022/11/24	06:31:39	ReferenceError: result is not defined
+2022/11/25	09:15:10	Error: ENOENT: no such file or directory, stat '/home/jongdeug/src/Javascript/Node.js/web-community-project/React/build/index.html'
+2022/11/25	09:24:32	TypeError: Post.find(...).toObject is not a function
+2022/11/25	09:26:33	TypeError: Assignment to constant variable.
+2022/11/27	18:06:56	MongoServerError: Invalid $project :: caused by :: Cannot do exclusion on field password in inclusion projection
+2022/11/27	18:08:10	MongoServerError: Invalid $project :: caused by :: Cannot do exclusion on field refreshToken in inclusion projection
+2022/11/27	18:10:45	MongoServerError: Invalid $project :: caused by :: Cannot do exclusion on field refreshToken in inclusion projection
+2022/11/27	19:35:46	CastError: Cast to ObjectId failed for value "638331f4bd9c99e16ea0fcb" (type string) at path "_id" for model "Variable"
+2022/11/27	19:49:14	ReferenceError: getVariableId is not defined
+2022/11/28	16:30:52	TypeError: getInterestKeywords.map is not a function
+2022/11/28	16:32:26	TypeError: getInterestKeywords.map is not a function
+2022/11/28	16:44:54	ReferenceError: Cannot access 'Variable' before initialization
+2022/11/28	17:47:39	TypeError: DB.Post is not iterable
+2022/11/28	17:48:27	TypeError: Cannot read properties of null (reading 'postTitle')
+2022/11/28	17:52:10	TypeError: Cannot read properties of undefined (reading 'push')
+2022/11/29	15:51:11	CastError: Cast to string failed for value "[ '#강아지', '#고양이', '#반려동물' ]" (type Array) at path "newsTitle" for model "News"
+2022/11/29	15:51:12	CastError: Cast to string failed for value "[ '#강아지', '#고양이', '#반려동물' ]" (type Array) at path "newsTitle" for model "News"
+2022/11/29	15:51:13	CastError: Cast to string failed for value "[ '#강아지', '#고양이', '#반려동물' ]" (type Array) at path "newsTitle" for model "News"
+2022/11/29	15:51:14	CastError: Cast to string failed for value "[ '#강아지', '#고양이', '#반려동물' ]" (type Array) at path "newsTitle" for model "News"
+2022/11/29	15:51:14	CastError: Cast to string failed for value "[ '#강아지', '#고양이', '#반려동물' ]" (type Array) at path "newsTitle" for model "News"
+2022/11/29	15:51:26	CastError: Cast to string failed for value "[ '#강아지', '#고양이', '#반려동물' ]" (type Array) at path "newsTitle" for model "News"
+2022/11/29	15:51:48	CastError: Cast to string failed for value "[ '#강아지', '#고양이', '#반려동물' ]" (type Array) at path "newsTitle" for model "News"
+2022/12/1	11:49:15	TypeError: Cannot read properties of null (reading 'interestKeywords')
+2022/12/1	12:02:44	TypeError: Cannot read properties of null (reading 'interestKeywords')
+2022/12/1	12:03:33	TypeError: Cannot read properties of null (reading 'interestKeywords')
+2022/12/1	14:36:44	TypeError: Cannot read properties of null (reading 'commentType')
+2022/12/1	16:32:00	ReferenceError: Cannot access 'result' before initialization
+2022/12/1	16:33:06	ReferenceError: DB is not defined
+2022/12/1	16:33:58	ReferenceError: getUserId is not defined
+2022/12/1	16:36:35	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	16:37:18	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	16:39:12	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	16:40:53	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	16:43:14	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	16:44:14	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	16:46:10	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	16:46:18	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	16:46:50	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	16:47:59	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	16:55:53	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	16:56:27	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	16:56:31	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	16:58:13	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	17:00:12	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	17:02:32	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	17:03:23	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	17:05:29	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	17:05:49	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	17:05:57	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	17:06:22	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	17:07:22	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	17:15:45	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Member"
+2022/12/1	17:16:06	CastError: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Member"
+2022/12/1	17:18:57	CastError: Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "Member"
+2022/12/1	17:48:46	TypeError: Crawler.naverNewsWithKeyword is not a function
+2022/12/1	19:25:53	TypeError: Cannot read properties of null (reading 'interestKeywords')
+2022/12/1	19:25:53	TypeError: Cannot read properties of null (reading 'interestKeywords')

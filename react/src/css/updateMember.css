@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+.updateMemberButtons{
+    display: flex;
+    justify-content : space-evenly;
+}
+
+.updateMember {
+    font-size: large;
+    padding: 60px 0;
+
+}
+
+.updateMember form {
+    margin: 0 auto;
+    max-width: 320px;
+    width: 800px;
+}
+
+
+.updateMemberTitle {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.link_button{
+    text-decoration: none;
+    color:#fff;
+}
+.link_button:hover{
+    text-decoration: none;
+    color:#fff;
+}
+
+.btn-primary,
+.btn-primary:focus,
+.btn-primary:active {
+    color: #fff;
+    background-color: #598cde;
+    border: #598cde;
+    box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5),
+        7px 7px 20px 0px rgba(0, 0, 0, .1),
+        4px 4px 5px 0px rgba(0, 0, 0, .1);
+    transition: all 0.3s ease;
+    margin: 0 auto;
+}
+
+.btn-danger,
+.btn-danger:focus,
+.btn-danger:active {
+    color: #fff;
+    background-color: #d96565;
+    border: #d55858;
+    box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5),
+        7px 7px 20px 0px rgba(0, 0, 0, .1),
+        4px 4px 5px 0px rgba(0, 0, 0, .1);
+    transition: all 0.3s ease;
+    margin: 0 auto;
+}
+
+.btn-success,
+.btn-success:focus,
+.btn-success:active {
+    color: #fff;
+    background-color: #59c294;
+    border: #59c294;
+    box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5),
+        7px 7px 20px 0px rgba(0, 0, 0, .1),
+        4px 4px 5px 0px rgba(0, 0, 0, .1);
+    transition: all 0.3s ease;
+    margin: 0 auto;
+}

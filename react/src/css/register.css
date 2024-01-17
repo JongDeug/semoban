@@ -1,0 +1,46 @@
+*{
+    margin:  0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.input_page h2{
+    margin: 35px 0px 10px;
+    text-align: center;
+}
+
+.input{
+    margin: auto;
+    text-align: center;
+    max-width: 350px;
+}
+
+.input_content{
+    margin: 18px 0px 8px;
+}
+
+.input_what{
+    text-align: left;
+}
+
+.input_area input{
+    width: 350px;
+    height: 30px;
+}
+
+#button{
+    margin: 20px 0px 20px;
+    background-color:lightgreen;
+    border: 0px;
+    /* width: 80px;
+    height: 40px;
+    border-radius: 20%; */
+}
+
+#react-select-2-listbox{
+    margin-bottom: 50px;
+}
+
+.input .register-input{
+        margin-bottom: 50px;
+}

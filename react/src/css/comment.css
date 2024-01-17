@@ -1,0 +1,68 @@
+
+*{
+    margin:  0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Pretendard-Regular';
+}
+
+/* 작성버튼 */
+.write_button{
+    float: right;
+    margin: 10px 5px;
+}
+
+/* 댓글영역 */
+.comment_area{
+    margin: 10px auto;
+}
+
+
+/* 댓글목록 */
+.commentslist{
+    margin: 0px auto 20px;
+}
+.comment_content{
+    padding: 7px;
+    /* width: 800px; */
+    border-top: 1px solid #ced4da;
+    width: 95%;
+}
+.lastline{
+    display: flex;
+    font-size: 0.9em;
+    justify-content: flex-start;
+}
+.cmtbtn{
+    background-color: none;
+    border:none;
+    border-radius: 5px;
+    margin: 0 5px;
+    padding: 0 6px;
+}
+.comment_time{
+    margin: 0 10px;
+}
+
+/* 댓글작성영역 */
+.input_comment{
+    display: flex;
+    width: 100%;
+}
+.comment{
+    /* border: 1px solid #ced4da; */
+    border-radius: 0.375rem;
+    padding: 5px;
+    min-height: 80px;
+    word-break:break-all;
+}
+.comment_form{
+    /* width:800px; */
+}
+.comment_group {
+    width: 95%;
+}
+/*댓글수정삭제버튼*/
+.commentbtn{
+    margin:0;
+}

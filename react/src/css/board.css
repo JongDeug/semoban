@@ -1,0 +1,212 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Pretendard-Regular';
+}
+
+@font-face {
+  font-family: 'Pretendard-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+main{
+  width: 75%;
+  flex-basis: 80%;
+  flex-grow: 1;
+  margin: auto 0;
+}
+@media screen and (min-width:800px) {
+  main{
+      width: 75%;
+      flex-basis: 80%;
+      flex-grow: 1;
+      margin: auto 0;
+  }
+}
+
+
+h2{
+  margin: 30px 0px 30px;
+  text-align: center;
+}
+
+.head{
+  text-align: center;
+  font-size: 0.9em;
+}
+
+.table-bordered>:not(caption)>*>*{
+  border-width: 0 0;
+}
+
+.to_flex{
+  display: flex;
+  width: 85%;
+  max-width: 1080px;
+}
+.categoryNtable {
+  display: flex;
+  align-items: flex-start;
+}
+/*목록*/
+.content{
+  text-align: center;
+}
+.content.post_title{
+  text-align: left;
+}
+.post_id{
+  width: 5%;
+}
+.post_title{
+}
+.post_writer{
+  width: 10%;
+}
+.post_date{
+  width:12%;
+  font-size: 0.8em;
+}
+.post_date.head{
+  font-size: 1em;
+}
+
+.post_hit{
+  width: 7%;
+}
+.post_likehit{
+  width: 7%;
+}
+.post_link{
+  text-decoration: none;
+  color:black;
+}
+
+.cursoron{
+  cursor: pointer;
+}
+.news_thumbnail {
+  width: 15%;
+  cursor: pointer;
+}
+
+.news_title {
+  width: 15%;
+  vertical-align: middle;
+}
+
+.news_description {
+  width: 60%;
+  vertical-align: middle;
+}
+
+@media screen and (min-width:480px) {
+  /* And even larger */
+}
+
+
+
+/* 작성 버튼 */
+.float-right {
+  display: flex;
+  justify-content: flex-end;
+}
+.create_btn,
+.create_btn:focus,
+.create_btn:active{
+  margin: 0px 0px 1em auto;
+  background-color: #59c294;
+}
+.btn-success:hover {
+  color: #fff;
+}
+
+/* paging */
+.paging_nav{
+  justify-content: center;
+  max-width: 800px;
+  margin: auto auto 20px auto;
+  display: flex;
+  flex-wrap: nowrap;
+}
+.btn-primary{
+}
+.paging_button,
+.paging_button:focus,
+.paging_button:active{
+  display: flex;
+  min-width: 25px;
+  justify-content: center;
+  list-style: none;
+  background-color: #59c294;
+  min-width: 20px;
+  margin: 0 1.5% 0 0;
+}
+.paging_button:disabled{
+  background-color: #8cd4b4;
+}
+.paging_button.thispage{
+  background-color: #17935c;
+}
+@media screen and (min-width:480px) {
+  .paging_nav{
+      justify-content: center;
+      max-width: 800px;
+      margin: auto auto 20px auto;
+  }
+  .paging_button,
+  .paging_button:focus,
+  .paging_button:active{
+      display: flex;
+      margin:0 10px;
+      justify-content: center;
+      list-style: none;
+      background-color: #59c294;
+      margin: 0 1%;
+  }
+}
+.create_btn:hover,
+.paging_button:hover{
+  
+  background-color: #19ba74;
+}
+.link_to{
+  text-decoration: none;
+  color: #fff;
+  margin: 0;
+}
+
+/* 검색 */
+.select_search{
+  border: solid 1px gray;
+  border-radius: 6px;
+  width: 28%;
+  max-width: 80px;
+  font-size: 0.87em;
+  color: gray;
+}
+.input-group{
+  justify-content: flex-end;
+}
+.serach_input{
+  border: solid 1px gray;
+  border-radius: 6px;
+  padding: 5px;
+  width: 15%;
+  height: 30px;
+  min-width: 75px;
+}
+.serach_input + .searchbtn{
+  height: 30px;
+  line-height: 1em;
+}
+
+/*뉴스버튼*/
+.news_btns{
+  margin-bottom: 1em;
+}
+button.btn-success.news_btn.btn.btn-primary{
+  margin-right:0.5em;
+}

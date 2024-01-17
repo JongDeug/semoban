@@ -1,0 +1,29 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#link_to{
+    color: #fff;
+    background-color: #59c294;
+    border: #59c294;
+    box-shadow: inset 2px 2px 2px 0px rgb(255 255 255 / 50%), 7px 7px 20px 0px rgb(0 0 0 / 10%), 4px 4px 5px 0px rgb(0 0 0 / 10%);
+    transition: all 0.3s ease;
+    margin: 0 auto;
+    display: block;
+}
+.posts_main{
+    width: 800px;
+    margin: auto;
+}
+.main_tap{
+    display: block;
+}
+.post_titles{
+    
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
